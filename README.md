@@ -830,6 +830,96 @@ Screenshot of commands run
 <img width="1362" height="711" alt="vsdstdcelldesign_inverter_spice" src="https://github.com/user-attachments/assets/46a957d0-df59-4b22-9ec0-237bf669a539" />
 
 
+<img width="1366" height="709" alt="chip area for module1" src="https://github.com/user-attachments/assets/3922c2e4-031c-4c8e-9104-9e8aa3481392" />
+
+<img width="1332" height="675" alt="error_run_synth1" src="https://github.com/user-attachments/assets/5b835676-e476-4796-b7a5-be66cb066df0" />
+
+<img width="1366" height="727" alt="init_floorplan" src="https://github.com/user-attachments/assets/0d34aead-4502-4496-b12f-ff687df2f176" />
+
+
+<img width="1366" height="711" alt="metal1_rail_alignment" src="https://github.com/user-attachments/assets/82612ef8-27de-451e-9e64-27bfbf8dddaa" />
+
+<img width="1366" height="735" alt="metal1_rail_alignment1" src="https://github.com/user-attachments/assets/26f416d6-056e-49a9-9e96-a07933c34fd6" />
+
+<img width="1366" height="718" alt="sky130_vsdinv1" src="https://github.com/user-attachments/assets/164a70a6-e43b-40d6-9e77-e26fcae1cc07" />
+
+<img width="1366" height="715" alt="sky139_vsdinv" src="https://github.com/user-attachments/assets/c5f714b2-5383-4e8e-8bfc-950f412d26cc" />
+
+<img width="1359" height="680" alt="spice1_graph_plot1" src="https://github.com/user-attachments/assets/18ae5cd5-4131-480b-99a7-39f1bb6653df" />
+
+<img width="1366" height="709" alt="tap_decap_or" src="https://github.com/user-attachments/assets/be73eda8-0403-4247-a695-87de09436ebc" />
+
+<img width="1361" height="714" alt="test1" src="https://github.com/user-attachments/assets/5cd93bb5-17bc-4c06-a282-73d2c097043d" />
+
+<img width="1366" height="737" alt="test2" src="https://github.com/user-attachments/assets/b5bd948e-be67-4134-bf7d-4e2eee348916" />
+
+<img width="1175" height="738" alt="write_lef" src="https://github.com/user-attachments/assets/4d939dd0-d6ec-4d22-85a9-528b7178892c" />
+
+<img width="1178" height="701" alt="write_lef1" src="https://github.com/user-attachments/assets/7ce82aa2-d4c8-4c4c-b90a-1d9a0a08879f" />
+
+<img width="1366" height="709" alt="tap_decap_or" src="https://github.com/user-attachments/assets/4a213bfa-3a21-4260-a43c-8dd36699917d" />
+
+<img width="1366" height="727" alt="init_floorplan" src="https://github.com/user-attachments/assets/42d7fa98-743a-4132-a810-d020e15c2531" />
+
+<img width="1363" height="729" alt="pre_sta1" src="https://github.com/user-attachments/assets/759df6e6-be96-4038-bea0-d91231e19c17" />
+
+<img width="1366" height="729" alt="pre_sta2" src="https://github.com/user-attachments/assets/418eddfb-16ae-4120-a79a-8d7bfc69bca1" />
+
+<img width="1366" height="735" alt="pre_sta3" src="https://github.com/user-attachments/assets/6d7ee6e1-0daa-4237-845d-c599dd77a4e6" />
+
+<img width="1361" height="722" alt="pre_sta4" src="https://github.com/user-attachments/assets/870700e6-d262-4be6-9362-b1d8582bdc5f" />
+
+<img width="1362" height="717" alt="run_cts" src="https://github.com/user-attachments/assets/4e8c1ce1-e049-49d5-88a6-52a083becdf4" />
+
+<img width="1365" height="765" alt="run_cts_full1" src="https://github.com/user-attachments/assets/8d5dc7d1-4a0b-4063-bb93-63f1918d1ae9" />
+
+<img width="1365" height="768" alt="run_cts_successfull1" src="https://github.com/user-attachments/assets/516b8ee3-6285-4cfc-b359-8d4d413672c7" />
+
+<img width="1366" height="746" alt="run_cts1" src="https://github.com/user-attachments/assets/9b38b58a-17b9-4609-94ff-3f151a248ae8" />
+
+<img width="1364" height="768" alt="run_cts2" src="https://github.com/user-attachments/assets/518bbc1c-c003-419f-bed0-ff690b20ee19" />
+
+<img width="1366" height="768" alt="run_cts3" src="https://github.com/user-attachments/assets/0c2dbe4a-fb42-4334-8fbe-ec0b3124ea48" />
+
+<img width="1366" height="767" alt="run_cts11" src="https://github.com/user-attachments/assets/331a9f7c-59ba-4826-9efa-752b7d919e1f" />
+
+
+
+
+
+
+
+
+
+
+<img width="1366" height="738" alt="picorv32_placement" src="https://github.com/user-attachments/assets/a83db13b-ef7a-425f-b556-192dd5af05cc" />
+
+<img width="1361" height="719" alt="pdn_gen" src="https://github.com/user-attachments/assets/50dd1d00-80dd-46de-8201-561e2e80ee05" />
+
+<img width="1359" height="757" alt="pdn1" src="https://github.com/user-attachments/assets/21552530-c9a4-4a75-bc7e-6b38cfd3dafc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
