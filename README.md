@@ -615,3 +615,80 @@ exit
 exit
 
 ```
+Calculate the die area in microns from the values in floorplan def.
+
+Die width in unit distance = 660685 − 0 = 660685
+
+Load generated floorplan def in magic tool and explore the floorplan.
+Commands to load floorplan def in magic in another terminal
+Die width in unit distance = 660685 − 0 = 660685
+
+Die height in unit distance = 671405 − = 671405
+
+Distance in microns = Value in Unit Distance / 1000
+
+Die width in microns = 660685 / 1000 = 660.685 Microns 
+
+Die height in microns = 671405 / 1000 = 671.405 Microns 
+
+Area of die in microns = 660.685 * 671.405 = 443587.212425 Square Microns 
+
+Load generated floorplan def in magic tool and explore the floorplan.
+
+Commands to load floorplan def in magic in another terminal
+
+```
+# Change directory to path containing generated floorplan def
+cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
+
+# Command to load the floorplan def in magic tool
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+
+```
+Screenshots of floorplan def in magic
+
+
+Equidistant placement of ports
+
+
+Decap Cells and Tap Cells
+
+
+Design library cell using Magic Layout and ngspice characterization
+
+```
+clone inverter standard cell design from github  
+https://github.com/nickson-jose/vsdstdcelldesign 
+```
+
+Load the custom inverter layout in magic and analyse 
+Spice extraction of inverter in magic 
+Editing the spice model file for analysis through simulation 
+Post-layout ngspice simulations
+Resolve drc errors by simulation and tech file analysis of skywater pdk 
+
+```
+# Change directory to openlane
+cd Desktop/work/tools/openlane_working_dir/openlane
+
+# Clone the repository with custom inverter design
+git clone https://github.com/nickson-jose/vsdstdcelldesign
+
+# Change into repository directory
+cd vsdstdcelldesign
+
+# Copy magic tech file to the repo directory for easy access
+cp /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech .
+
+# Check contents whether everything is present
+ls
+
+# Command to open custom inverter layout in magic
+magic -T sky130A.tech sky130_inv.mag &
+
+```
+
+
+
+
+
