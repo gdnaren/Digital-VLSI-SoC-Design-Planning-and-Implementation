@@ -589,6 +589,7 @@ To check the original author list of OpenLANE, check [this][33].
 Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 Commands to invoke the OpenLANE flow and perform synthesis
 
+```
 # Change directory to openlane flow directory
 cd Desktop/work/tools/openlane_working_dir/openlane
 
@@ -596,4 +597,4 @@ cd Desktop/work/tools/openlane_working_dir/openlane
 # Since we have aliased the long command to 'docker' we can invoke the OpenLANE flow docker sub-system by just running this command
 docker
 
-
+```
