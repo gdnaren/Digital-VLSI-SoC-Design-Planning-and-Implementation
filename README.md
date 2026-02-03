@@ -647,6 +647,8 @@ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs
 ```
 Screenshots of floorplan def in magic
 
+<img width="1364" height="674" alt="dcap cells" src="https://github.com/user-attachments/assets/e0adf6c5-d5db-4418-9e04-b9ac584566c6" />
+
 
 Equidistant placement of ports
 
@@ -666,6 +668,7 @@ Spice extraction of inverter in magic
 Editing the spice model file for analysis through simulation 
 Post-layout ngspice simulations
 Resolve drc errors by simulation and tech file analysis of skywater pdk 
+
 
 ```
 # Change directory to openlane
@@ -688,9 +691,170 @@ magic -T sky130A.tech sky130_inv.mag &
 
 ```
 
+<img width="864" height="558" alt="extract parasitic capacitance" src="https://github.com/user-attachments/assets/86039ca0-c5f4-41cf-80bf-7b9f270cd348" />
+
+<img width="1366" height="672" alt="floor_plan_run_command1" src="https://github.com/user-attachments/assets/4b7abdb0-5023-4f7f-ad3c-ba7d4580351d" />
+
+<img width="1366" height="678" alt="floorplan_run1" src="https://github.com/user-attachments/assets/521e7782-35ed-45a3-9fff-1b9d14faf3b3" />
+
+<img width="1361" height="668" alt="IO in equidistant" src="https://github.com/user-attachments/assets/0d80e931-01f8-41a6-ae7b-1f931525d103" /> 
+
+<img width="1355" height="604" alt="labdrc1" src="https://github.com/user-attachments/assets/30d6b302-d188-4764-8fb7-04f71b274a3d" /> 
+
+<img width="1366" height="764" alt="lef file1" src="https://github.com/user-attachments/assets/12fdf256-fc95-49ae-a028-dfd46978f571" /> 
+
+<img width="1366" height="768" alt="lef12" src="https://github.com/user-attachments/assets/6e8a849b-072e-4918-b66b-bf03f28675e6" />
+
+**<img width="1296" height="696" alt="locali" src="https://github.com/user-attachments/assets/4026e76a-a313-4ba6-a45d-7628d35c5193" />
+
+<img width="1366" height="711" alt="magic T" src="https://github.com/user-attachments/assets/318b1ce8-ebc1-4fb1-b98a-68ebf7bfd9b6" />
+
+<img width="1175" height="670" alt="run_placement1" src="https://github.com/user-attachments/assets/07247cbd-6d98-4592-9dcf-278e6bf55b68" />
+
+<img width="1175" height="670" alt="run_placement2" src="https://github.com/user-attachments/assets/0fa10763-2cb6-4fc3-b5f6-5a71d3dfe377" />
+
+
+
+
+**
+
+
+
+
+
+
+
+
+
 Screenshot of commands run
 
+<img width="1363" height="767" alt="1" src="https://github.com/user-attachments/assets/b343abdd-67a4-494f-9815-e35d83abd7cd" />
+
+<img width="1366" height="709" alt="2" src="https://github.com/user-attachments/assets/dd0d9c03-d89f-4383-b30c-2de7c8d9a514" />
+
+<img width="1366" height="709" alt="3" src="https://github.com/user-attachments/assets/a4c0d3d3-83d6-404e-89e4-def3b60f9839" />
+
+<img width="1366" height="774" alt="4" src="https://github.com/user-attachments/assets/b3fbf6bd-98d2-469e-adcf-5762cfcee3a8" />
+
+<img width="1366" height="711" alt="43" src="https://github.com/user-attachments/assets/97bb21c0-ae24-4432-9d42-b7a2d6769d8e" />
+
+
+
+
+
+
 <img width="1366" height="716" alt="42" src="https://github.com/user-attachments/assets/f791a340-705d-4895-b239-c69dcd2d42bd" />
+
+
+----
+
+
+<img width="1365" height="768" alt="box2" src="https://github.com/user-attachments/assets/df321f0e-5df5-47b7-8499-54cc6454eec9" />
+
+<img width="1366" height="768" alt="drc interactive vias style fast slow" src="https://github.com/user-attachments/assets/b174e9ee-ec24-4a05-8352-9737371d897c" />
+
+<img width="1335" height="725" alt="drc shrink" src="https://github.com/user-attachments/assets/694a677f-c11e-4ebb-815d-bf71f89d0806" />
+
+<img width="1362" height="748" alt="drc1" src="https://github.com/user-attachments/assets/f77420e9-79ac-40bb-bf78-c533ee7fd5bd" />
+
+<img width="1355" height="596" alt="drc2" src="https://github.com/user-attachments/assets/7ea2d713-7ae7-4cf9-ae34-af299fc7d9c3" />
+
+<img width="1366" height="745" alt="drc3" src="https://github.com/user-attachments/assets/c1080ad7-b7d1-4843-b0f2-ce428e3df373" />
+
+<img width="1364" height="757" alt="drc5" src="https://github.com/user-attachments/assets/8b06a20d-1428-4a18-b7c7-0a49ccd803b6" />
+
+<img width="1335" height="568" alt="config tcl1" src="https://github.com/user-attachments/assets/12ddca0f-ead4-43f9-a077-a4d6e120b4f5" />
+
+<img width="1333" height="572" alt="config tcl2" src="https://github.com/user-attachments/assets/2e81821a-1bd8-49cd-9843-6ac6e141540b" />
+
+<img width="1341" height="569" alt="cp lef to picorv32a" src="https://github.com/user-attachments/assets/8aaa1cfb-49b9-4d6d-85d8-728290ec279c" />
+
+
+
+
+
+
+
+<img width="1365" height="680" alt="magic tech lef read" src="https://github.com/user-attachments/assets/fbdddd02-bc33-490d-9ea0-b8eff601b0ec" />
+
+<img width="1360" height="641" alt="magic2" src="https://github.com/user-attachments/assets/b8e7b9d5-cccc-4e6e-a0d5-6caec2fc1caa" />
+
+<img width="1364" height="732" alt="magic3" src="https://github.com/user-attachments/assets/6a7f3417-91e4-4019-9b8b-ad07052aa65f" />
+
+<img width="1366" height="714" alt="magic4" src="https://github.com/user-attachments/assets/e0f1b682-5b5c-49ec-afe9-f46c988a238a" />
+
+<img width="1366" height="711" alt="merge 1" src="https://github.com/user-attachments/assets/1a205bfc-f845-479e-ab08-ffd8709b7176" /> 
+
+<img width="1295" height="544" alt="nagic1" src="https://github.com/user-attachments/assets/876e0b05-48b8-449d-b0a6-fc5b70be80e1" />
+
+<img width="1366" height="757" alt="ng1" src="https://github.com/user-attachments/assets/0ca4e7cc-b1bc-43f2-bc49-9152b8f3e3be" />
+
+<img width="1366" height="735" alt="ngplot1" src="https://github.com/user-attachments/assets/cdf427f7-7e3a-4570-a366-2b0d446d7e8d" />
+
+<img width="1366" height="707" alt="ngplot2" src="https://github.com/user-attachments/assets/f24a650b-2eef-45ff-818a-83659a4572cd" />
+
+<img width="1366" height="733" alt="ngspicegraphplot1" src="https://github.com/user-attachments/assets/cfd89b5d-a378-41fa-9d2b-b6be8fa4d63a" />
+
+<img width="1366" height="768" alt="nwell2" src="https://github.com/user-attachments/assets/0b8c2de4-b79e-4064-850a-02405e91b04e" />
+
+<img width="1366" height="768" alt="plot12" src="https://github.com/user-attachments/assets/5dd5a14f-cc70-4ad0-b1ff-768992f99218" />
+
+<img width="1091" height="603" alt="portname 1" src="https://github.com/user-attachments/assets/dc118755-a7fd-4db4-bd80-5bf01ec157ac" />
+
+<img width="1339" height="533" alt="power planning" src="https://github.com/user-attachments/assets/4b1b36a2-ec1e-416d-ad8c-c7ff5a6cc4b5" />
+
+<img width="1366" height="750" alt="skytech130A" src="https://github.com/user-attachments/assets/e741f393-dd28-4a5d-baa5-f0d1d65a83ea" />
+
+<img width="1350" height="602" alt="snap int box commands" src="https://github.com/user-attachments/assets/35df2f3a-7498-4299-a48d-7c72e775a3a5" />
+
+<img width="1366" height="665" alt="tap cell prevents latchup in cmos dev they connect nwell to vdd and substrate to gnd to prevent latch up" src="https://github.com/user-attachments/assets/c503ffee-6f79-4a71-9076-ad6c07c77624" />
+
+<img width="1366" height="718" alt="test1" src="https://github.com/user-attachments/assets/89fe56ed-6d02-43aa-ac5f-ddd2cf7f396f" />
+
+<img width="1364" height="661" alt="tkcon what 1" src="https://github.com/user-attachments/assets/7f39e6ff-9bb2-4c87-b2a3-5f2b462afd77" />
+
+<img width="1350" height="604" alt="tracks info" src="https://github.com/user-attachments/assets/6d838a3b-0137-4223-92ea-6fdb168b897e" />
+
+<img width="1356" height="677" alt="tracks info1" src="https://github.com/user-attachments/assets/970bb947-5904-4ccb-8778-5d75ca2c634a" />
+
+<img width="1366" height="767" alt="cif see VIA2" src="https://github.com/user-attachments/assets/2c694a53-0be5-40ba-ab6e-bc9982cb1d51" />
+
+<img width="1366" height="697" alt="vsd2" src="https://github.com/user-attachments/assets/4ca2b7a0-b63d-423a-a023-3e5590e35b2a" />
+
+<img width="1366" height="711" alt="vsd3" src="https://github.com/user-attachments/assets/0b5e5d1a-06d7-4756-9910-94489c48db05" />
+
+<img width="1306" height="605" alt="vsd11" src="https://github.com/user-attachments/assets/e16c38f6-03d4-46f8-be9b-8b1db9a452e0" />
+
+<img width="1366" height="730" alt="vsdstdcelldesign sky130_inv" src="https://github.com/user-attachments/assets/77f4a38b-954e-4b6f-bc18-f8d658610f7f" />
+
+<img width="1362" height="711" alt="vsdstdcelldesign_inverter_spice" src="https://github.com/user-attachments/assets/46a957d0-df59-4b22-9ec0-237bf669a539" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
