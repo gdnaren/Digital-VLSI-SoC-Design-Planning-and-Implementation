@@ -688,6 +688,9 @@ magic -T sky130A.tech sky130_inv.mag &
 
 ```
 
+Screenshot of commands run
+
+<img width="1366" height="716" alt="42" src="https://github.com/user-attachments/assets/f791a340-705d-4895-b239-c69dcd2d42bd" />
 
 
 
